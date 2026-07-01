@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    /* 📁 Project Structure */
+    "rootDir": "./src",
+    "outDir": "./dist",
+    /* ⚙️ Node.js Setup */
+    "module": "commonjs",
+    "target": "ES6",
+    "lib": [
+      "ES6"
+    ],
+    "types": [
+      "node"
+    ],
+    /* 🔧 Compatibility */
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    /* 🧠 Strict Mode */
+    "strict": true,
+    /* 🚀 Dev */
+    "sourceMap": true,
+    /* ⚡ Performance */
+    "skipLibCheck": true
+  }
+}
